@@ -1,0 +1,17 @@
+<h2>Componentes dinámicos</h2>
+
+<app-modal>
+  <ng-template appHost></ng-template>
+</app-modal>
+
+<ul>
+  <li *ngFor="let item of mediaItems" (click)="abrir(item)">{{item.titulo}}</li>
+</ul>
+
+<hr>
+
+<a [appMiRouterLink]="['/']">Inicio</a>
+<a [appMiRouterLink]="['/fin']">Fin</a>
+<a [appMiRouterLink]="['/no-existe']">No existe</a>
+
+<app-mi-router-outlet></app-mi-router-outlet>
