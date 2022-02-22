@@ -1,0 +1,20 @@
+<form [formGroup]="formOferta" (ngSubmit)="guardar()">
+  <div>
+    <label for="titulo">Título</label>
+    <input type="text" id="titulo" formControlName="titulo">
+  </div>
+  <div>
+    <label for="salario">Salario</label>
+    <input type="number" id="salario" formControlName="salario">
+  </div>
+  <div>
+    <label for="ciudad">Ciudad</label>
+    <select id="ciudad" formControlName="ciudad">
+      <option value="madrid">Madrid</option>
+      <option value="barcelona">Barcelona</option>
+      <option value="valencia">Valencia</option>
+      <option value="full-remote">Full-Remote</option>
+    </select>
+  </div>
+  <button type="submit" [disabled]="formOferta.invalid">Crear la oferta</button>
+</form>

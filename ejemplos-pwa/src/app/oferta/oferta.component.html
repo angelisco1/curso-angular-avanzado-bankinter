@@ -1,0 +1,4 @@
+<div [ngStyle]="{border: '1px solid black', padding: '0 20px'}">
+  <h4><a [routerLink]="['/ofertas', oferta.id]">{{oferta.titulo}}</a> - {{oferta.empresa}}</h4>
+  <p>{{oferta.salario | currency:'EUR'}}</p>
+</div>

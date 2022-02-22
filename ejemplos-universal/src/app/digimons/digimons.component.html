@@ -1,0 +1,7 @@
+<h2>Lista Digimons</h2>
+
+<ul>
+  <li *ngFor="let digimon of listaDigimons">
+    <a [routerLink]="['/digimons', digimon.name]">{{digimon.name}}</a>
+  </li>
+</ul>

@@ -1,0 +1,9 @@
+<h1>Wikipedia de digimons</h1>
+
+<ul>
+  <li *ngFor="let level of levels">
+    <a [routerLink]="['/digimons', 'level', level]">{{level | titlecase}}</a>
+  </li>
+</ul>
+
+<router-outlet></router-outlet>

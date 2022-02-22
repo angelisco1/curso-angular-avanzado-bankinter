@@ -1,0 +1,107 @@
+{
+  "ofertas": [
+    {
+      "id": 1,
+      "titulo": "Frontend Developer con Angular",
+      "empresa": "Stark Industries",
+      "salario": 30000,
+      "ciudad": "full-remote",
+      "descripcion": "Buscamos alguien que desarrolle aplicaciones con Angular..."
+    },
+    {
+      "titulo": "Backend developer",
+      "empresa": "Empresa 1",
+      "salario": 45000,
+      "ciudad": "valencia",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 2
+    },
+    {
+      "titulo": "QA con Cypress",
+      "empresa": "Empresa 1",
+      "salario": 23000,
+      "ciudad": "full-remote",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 3
+    },
+    {
+      "titulo": "Solidity Developer",
+      "empresa": "Empresa 1",
+      "salario": 60000,
+      "ciudad": "full-remote",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 4
+    },
+    {
+      "titulo": "React developer",
+      "empresa": "Empresa 1",
+      "salario": 40000,
+      "ciudad": "valencia",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 5
+    },
+    {
+      "titulo": "Ninja developer",
+      "empresa": "Empresa 1",
+      "salario": 100000,
+      "ciudad": "full-remote",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 6
+    },
+    {
+      "titulo": "Oferta 3000",
+      "empresa": "Empresa 1",
+      "salario": 21000,
+      "ciudad": "barcelona",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 7
+    }
+  ],
+  "suscripciones": [
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/ds7NmEKTv7Y:APA91bH9MtSuDbhmXdXsZUiJgLja7ucEf7HUiivedowXpMKDPdurE3IIT69fpLGo1elWxMNiK2HZH9Dk2oN3ISAUQLG8r1LnCzRL2gswTkHv18hi-EjwqHCqE3sO8sQSF-PcBNzvWKuf",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BM2vkuDviNHspW__M0kGsHF9WbtBs2lxLeozb2Goeuue5vzzRcQt_In64kWi272M5uxB9D7FJDZEpbEdl8EThWw",
+        "auth": "YIHtVI21I0LDVTgGzLWuAA"
+      },
+      "id": 1
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/ds7NmEKTv7Y:APA91bH9MtSuDbhmXdXsZUiJgLja7ucEf7HUiivedowXpMKDPdurE3IIT69fpLGo1elWxMNiK2HZH9Dk2oN3ISAUQLG8r1LnCzRL2gswTkHv18hi-EjwqHCqE3sO8sQSF-PcBNzvWKuf",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BM2vkuDviNHspW__M0kGsHF9WbtBs2lxLeozb2Goeuue5vzzRcQt_In64kWi272M5uxB9D7FJDZEpbEdl8EThWw",
+        "auth": "YIHtVI21I0LDVTgGzLWuAA"
+      },
+      "id": 2
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/dsUlAkbDtjc:APA91bGLFuSpTlQ6Ric3zMqkUYrRJrvtkT42yfyqTLx6ADwJ6XPlG4F0VUN9ZzydeusKnrDFrGh56nsu7cNu5zkLb4CUb4m2gADEQsOGjCGzWB1whEJ2n-FU8XmFQ91vaWjP3Bm9yixC",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BH2F_Y7Jb2JASCWFhry5O_IHeigV9oGZkrEeQoVqRw_ZvqFuXtpem9z3ukSii4Bx0jMPnknIzHzbiK3UoeaeM3s",
+        "auth": "_PCsvbw5R1UTahhogYmkbQ"
+      },
+      "id": 3
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/dsUlAkbDtjc:APA91bGLFuSpTlQ6Ric3zMqkUYrRJrvtkT42yfyqTLx6ADwJ6XPlG4F0VUN9ZzydeusKnrDFrGh56nsu7cNu5zkLb4CUb4m2gADEQsOGjCGzWB1whEJ2n-FU8XmFQ91vaWjP3Bm9yixC",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BH2F_Y7Jb2JASCWFhry5O_IHeigV9oGZkrEeQoVqRw_ZvqFuXtpem9z3ukSii4Bx0jMPnknIzHzbiK3UoeaeM3s",
+        "auth": "_PCsvbw5R1UTahhogYmkbQ"
+      },
+      "id": 4
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/dsUlAkbDtjc:APA91bGLFuSpTlQ6Ric3zMqkUYrRJrvtkT42yfyqTLx6ADwJ6XPlG4F0VUN9ZzydeusKnrDFrGh56nsu7cNu5zkLb4CUb4m2gADEQsOGjCGzWB1whEJ2n-FU8XmFQ91vaWjP3Bm9yixC",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BH2F_Y7Jb2JASCWFhry5O_IHeigV9oGZkrEeQoVqRw_ZvqFuXtpem9z3ukSii4Bx0jMPnknIzHzbiK3UoeaeM3s",
+        "auth": "_PCsvbw5R1UTahhogYmkbQ"
+      },
+      "id": 5
+    }
+  ]
+}

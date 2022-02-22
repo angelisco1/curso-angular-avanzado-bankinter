@@ -5,10 +5,20 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
+import { InicioComponent } from './inicio/inicio.component';
+import { OfertaComponent } from './oferta/oferta.component';
+import { DetalleOfertaComponent } from './detalle-oferta/detalle-oferta.component';
+import { NuevaOfertaComponent } from './nueva-oferta/nueva-oferta.component';
+import { ReactiveFormsModule } from '@angular/forms';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    InicioComponent,
+    OfertaComponent,
+    DetalleOfertaComponent,
+    NuevaOfertaComponent
   ],
   imports: [
     BrowserModule,
@@ -18,7 +28,9 @@ import { environment } from '../environments/environment';
       // Register the ServiceWorker as soon as the app is stable
       // or after 30 seconds (whichever comes first).
       registrationStrategy: 'registerWhenStable:30000'
-    })
+    }),
+    HttpClientModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
