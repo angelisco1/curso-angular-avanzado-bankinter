@@ -1,6 +1,12 @@
 <h1>Wikipedia de digimons</h1>
 
 <ul>
+  <li>
+    <a [routerLink]="['/']">Inicio</a>
+  </li>
+  <li>
+    <a [routerLink]="['/nuevos-digimons']">Nuevos digimons</a>
+  </li>
   <li *ngFor="let level of levels">
     <a [routerLink]="['/digimons', 'level', level]">{{level | titlecase}}</a>
   </li>

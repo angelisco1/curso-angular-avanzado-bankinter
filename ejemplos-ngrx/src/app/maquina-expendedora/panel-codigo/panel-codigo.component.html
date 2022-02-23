@@ -1,0 +1,7 @@
+<form [formGroup]="formCodigo" (ngSubmit)="sacarProducto()">
+  <div>
+    <label for="codigo">Introduce el código del producto:</label>
+    <input type="number" id="codigo" formControlName="codigo">
+  </div>
+  <button type="submit">Sacar producto</button>
+</form>

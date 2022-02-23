@@ -1,0 +1,10 @@
+.producto {
+  border: 1px solid black;
+  padding: 15px;
+  margin: 15px;
+  width: 250px;
+}
+
+.agotado {
+  background-color: darkgray;
+}

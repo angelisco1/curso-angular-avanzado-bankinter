@@ -6,12 +6,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { DigimonComponent } from './digimon/digimon.component';
 import { DigimonsComponent } from './digimons/digimons.component';
+import { NuevosDigimonsComponent } from './nuevos-digimons/nuevos-digimons.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     DigimonComponent,
-    DigimonsComponent
+    DigimonsComponent,
+    NuevosDigimonsComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),

@@ -1,0 +1,12 @@
+<app-panel-estado></app-panel-estado>
+
+<!-- <app-panel-pago></app-panel-pago> -->
+
+<app-panel-codigo></app-panel-codigo>
+
+
+<p *ngIf="cargando$ | async; else listaProductos">Cargando máquina...</p>
+
+<ng-template #listaProductos>
+  <app-productos></app-productos>
+</ng-template>

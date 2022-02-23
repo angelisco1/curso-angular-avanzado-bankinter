@@ -10,7 +10,8 @@
     "dev:ssr": "ng run ejemplos-universal:serve-ssr",
     "serve:ssr": "node dist/ejemplos-universal/server/main.js",
     "build:ssr": "ng build && ng run ejemplos-universal:server",
-    "prerender": "ng run ejemplos-universal:prerender"
+    "prerender": "ng run ejemplos-universal:prerender",
+    "generate:prerender": "node generate-routes-file.js && npm run prerender"
   },
   "private": true,
   "dependencies": {
@@ -24,6 +25,7 @@
     "@angular/platform-server": "~13.2.0",
     "@angular/router": "~13.2.0",
     "@nguniversal/express-engine": "^13.0.2",
+    "axios": "^0.26.0",
     "express": "^4.15.2",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",

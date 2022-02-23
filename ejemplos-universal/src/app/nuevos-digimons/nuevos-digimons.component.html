@@ -1,0 +1,7 @@
+<button type="button" (click)="guardar()">Crear nuevo digimon</button>
+
+<div *ngFor="let digimon of listaDigimons">
+  <h2>{{digimon.name}}</h2>
+  <img [src]="digimon.img" alt="Imagen de {{digimon.name}}" width="250">
+  <p>Level: {{digimon.level}}</p>
+</div>
