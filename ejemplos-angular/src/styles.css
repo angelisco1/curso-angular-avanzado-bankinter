@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+.caja-animacion {
+  border: 1px solid black;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}

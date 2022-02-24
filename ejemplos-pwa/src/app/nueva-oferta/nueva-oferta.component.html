@@ -1,9 +1,9 @@
-<form [formGroup]="formOferta" (ngSubmit)="guardar()">
+<form [formGroup]="formOferta" (ngSubmit)="guardar()" data-cy="formulario">
   <div>
     <label for="titulo">Título</label>
     <input type="text" id="titulo" formControlName="titulo">
   </div>
-  <div>
+  <div data-cy="input-salario">
     <label for="salario">Salario</label>
     <input type="number" id="salario" formControlName="salario">
   </div>

@@ -55,6 +55,102 @@
       "ciudad": "barcelona",
       "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
       "id": 7
+    },
+    {
+      "titulo": "Oferta 1",
+      "empresa": "Empresa 1",
+      "salario": 20000,
+      "ciudad": "madrid",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 8
+    },
+    {
+      "titulo": "Oferta 1",
+      "empresa": "Empresa 1",
+      "salario": 20000,
+      "ciudad": "madrid",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 9
+    },
+    {
+      "titulo": "Oferta 1",
+      "empresa": "Empresa 1",
+      "salario": 20000,
+      "ciudad": "madrid",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 10
+    },
+    {
+      "titulo": "Oferta 1",
+      "empresa": "Empresa 1",
+      "salario": 20000,
+      "ciudad": "madrid",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 11
+    },
+    {
+      "titulo": "Oferta 1",
+      "empresa": "Empresa 1",
+      "salario": 20000,
+      "ciudad": "madrid",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 12
+    },
+    {
+      "titulo": "Oferta 1",
+      "empresa": "Empresa 1",
+      "salario": 20000,
+      "ciudad": "madrid",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 13
+    },
+    {
+      "titulo": "Oferta 1",
+      "empresa": "Empresa 1",
+      "salario": 20000,
+      "ciudad": "madrid",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 14
+    },
+    {
+      "titulo": "Oferta 4200",
+      "empresa": "Empresa 1",
+      "salario": 4200,
+      "ciudad": "madrid",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 15
+    },
+    {
+      "titulo": "Oferta 4200",
+      "empresa": "Empresa 1",
+      "salario": 4200,
+      "ciudad": "madrid",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 16
+    },
+    {
+      "titulo": "Oferta 4200",
+      "empresa": "Empresa 1",
+      "salario": 4200,
+      "ciudad": "valencia",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 17
+    },
+    {
+      "titulo": "Oferta 4200",
+      "empresa": "Empresa 1",
+      "salario": 4200,
+      "ciudad": "valencia",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 18
+    },
+    {
+      "titulo": "Oferta 4200",
+      "empresa": "Empresa 1",
+      "salario": 4200,
+      "ciudad": "valencia",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem placeat architecto quisquam quam hic deserunt at amet dolorum quia, error rem delectus fugiat soluta enim deleniti esse magni fuga nisi.",
+      "id": 19
     }
   ],
   "suscripciones": [
